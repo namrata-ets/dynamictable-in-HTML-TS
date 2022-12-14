@@ -1,0 +1,9 @@
+.data{
+    border-style: double;
+    border-color:black;
+    border-width: 5px;
+    align-content: center;
+    justify-content: center;
+    column-rule-style: double;
+    column-rule-color: brown;
+}
